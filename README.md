@@ -12,7 +12,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SekoMirson&langs_count_private=true&theme=radical&card_width=445)<br><br>
 
 <strong>🚀 My Latest Update :</strong><br><br>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SekoMirson&repo=MyProfile&theme=radical)](https://github.com/SekoMirson/Minecraft-Launcher)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SekoMirson&repo=PyConsoleChat&theme=radical)](https://github.com/SekoMirson/PyConsoleChat)
 </div>
 
 
