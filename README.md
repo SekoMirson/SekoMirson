@@ -1,3 +1,4 @@
+<center>
 # <h1 align="center">Merhaba, ben <a href="https://github.com/SekoMirson">SekoMirson<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px" /></h1>
     
 <p align="center">
@@ -15,7 +16,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SekoMirson&repo=PyConsoleChat&theme=radical)](https://github.com/SekoMirson/PyConsoleChat)
 </div>
 
-
+</center>
 <!--
 **SekoMirson/SekoMirson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
