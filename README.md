@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm SekoMirson 👋</h1>
+<h1 align="center">Hi there, I'm SekoMirson 👋<img src="https://img.shields.io/badge/verifyed-green?style=flat&logo=programming" alt="verifyed" /></h1>
 <h3 align="center">A passionate developer exploring the realms of web development, gaming, and streaming.</h3>
 
 <p align="center">
@@ -11,18 +11,19 @@
 
 ### 🚀 About Me:
 - 💻 I work on **PHP**, **Python**, **Node.js**, and **MySQL** projects.
-- 🎮 Passionate about **game development** and running my own **Minecraft server** named **Red Panda**.
+- 🎮 Passionate about **game development** and running my own **Minecraft server** named **WhitePanda**.
 - 💡 I enjoy teaching **Python** and developing **Discord bots** using **NLP**.
 - 🏆 Leading my Valorant team, **Tez Bazar**, ranked first!
 
 ### 🎥 Currently Streaming On:
-- **YouTube**: [ScriptedKnight](https://www.youtube.com/channel/UCGyl73Ar4sqQK2t2ZJGPkPg)
-- **Kick**: [siniribozuk](https://kick.com/siniribozuk)
+- **YouTube**: [SMTV](https://www.youtube.com/channel/UCGyl73Ar4sqQK2t2ZJGPkPg)
+- **Kick**: [SekoMirson](https://kick.com/sekomirson)
+- **TikTok**: [SekoMirson](https://Tiktok.com/@sekomirson)
 
 ### 🌱 Ongoing Projects:
-- **Slot Machine The Fruits**: A fun slot machine game in PHP and MySQL.
+- **Slot Machine**: A fun slot machine game in PHP and MySQL.
 - Exploring **Electron** to build custom chat windows for Twitch.
-- Building tools for my **Minecraft Red Panda server**.
+- Building tools for my **Minecraft WhitePanda server**.
 
 ### 💼 GitHub Stats:
 <p align="center">
