@@ -1,18 +1,50 @@
-# <p align="center">
-
- <h1 align="center">Merhaba, ben <a href="https://github.com/SekoMirson">SekoMirson<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px" /></h1>
+<h1 align="center">Hi there, I'm SekoMirson 👋</h1>
+<h3 align="center">A passionate developer exploring the realms of web development, gaming, and streaming.</h3>
 
 <p align="center">
-    <img width="200" src="https://avatars.githubusercontent.com/u/50784191?s=128&v=4">
+  <img src="https://img.shields.io/badge/Focus-PHP,%20Node.js,%20Python,%20MySQL-informational?style=flat&logo=programming" alt="focus" />
+  <img src="https://img.shields.io/badge/Projects-Web%20Apps,%20Game%20Development-blue?style=flat&logo=github" alt="projects" />
+  <img src="https://img.shields.io/badge/Streaming-YouTube,%20Kick,%20Twitch-red?style=flat&logo=streamlabs" alt="streaming" />
 </p>
 
-<div align="center">
-<strong>📊 My Github Stats :</strong><br><br>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SekoMirson&theme=radical&hide_border=true"/><br><br>
+---
 
-<strong>💡 My Languages :</strong><br><br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SekoMirson&langs_count_private=true&theme=radical&card_width=445)<br><br>
+### 🚀 About Me:
+- 💻 I work on **PHP**, **Python**, **Node.js**, and **MySQL** projects.
+- 🎮 Passionate about **game development** and running my own **Minecraft server** named **Red Panda**.
+- 💡 I enjoy teaching **Python** and developing **Discord bots** using **NLP**.
+- 🏆 Leading my Valorant team, **Tez Bazar**, ranked first!
 
-<strong>🚀 My Latest Update :</strong><br><br>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SekoMirson&repo=PyConsoleChat&theme=radical)](https://github.com/SekoMirson/PyConsoleChat)
-</div>
+### 🎥 Currently Streaming On:
+- **YouTube**: [ScriptedKnight](https://www.youtube.com/channel/UCGyl73Ar4sqQK2t2ZJGPkPg)
+- **Kick**: [siniribozuk](https://kick.com/siniribozuk)
+
+### 🌱 Ongoing Projects:
+- **Slot Machine The Fruits**: A fun slot machine game in PHP and MySQL.
+- Exploring **Electron** to build custom chat windows for Twitch.
+- Building tools for my **Minecraft Red Panda server**.
+
+### 💼 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SekoMirson&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+---
+
+### 🛠️ Languages and Tools:
+<p align="center">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
+
+---
+
+### 📫 Contact Me:
+- **Email**: sekomirson@gmail.com
+- **LinkedIn**: [SekoMirson](https://linkedin.com/in/sekomirson)
